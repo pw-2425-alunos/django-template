@@ -16,4 +16,12 @@ O `django-template` foi criado para ser um ponto de partida para projetos Django
 
 ## Configuração
 
+Crie um repositório usando este template do seguinte modo. 
+* Deve usar o django-empty como template
+* Deve colocar o seu número de aluno no nome do repositório
+* Repositório deve ser privado
+
+<img width="518" height="393" alt="image" src="https://github.com/user-attachments/assets/8592c23c-912e-42ff-9111-4d6bdc0a6b25" />
+
+
 Siga os passos da [Ficha 10](https://programacao-web.gitbook.io/ficha-8-26-ci-cd) para configurar o seu projeto
