@@ -1,4 +1,4 @@
-git checkout --orphan new-mainname: Build, Push, and Deploy Django App
+name: Build, Push, and Deploy Django App
 
 on:
   push:
